@@ -1,10 +1,10 @@
-/cachestr
-/ConfigOverride
-/content
-/onlinethumbnailcache
-/Recorded Videos
-/Screenshots
-/VideoCameraStates
+cachestr/
+ConfigOverride/
+content/
+onlinethumbnailcache/
+Recorded Videos/
+Screenshots/
+VideoCameraStates/
 avatarcache.package
 clientDB.package
 Config.log
