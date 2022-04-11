@@ -1,0 +1,21 @@
+/cachestr
+/ConfigOverride
+/content
+/onlinethumbnailcache
+/Recorded Videos
+/Screenshots
+/VideoCameraStates
+avatarcache.package
+clientDB.package
+Config.log
+ConnectionStatus.txt
+Events.ini
+GameVersion.txt
+lastException_*.txt
+lastUIException_*.txt
+localthumbcache.package
+notify.glob
+Options.ini
+ReticulatedSplinesView
+UserData.lock
+UserSetting.ini
